@@ -1,0 +1,56 @@
+.selectedcrop{
+    background-image: url('../../assets/aa3.jpg');
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	content: "";
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: -1;
+	display: block;
+    filter: contrast(110%);
+    filter: blur(0.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.detail-header{
+    width: 100%;
+    height: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(85, 70, 49, 0.475);
+}
+.detail-header h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+.det-tab{
+    width: 100%;
+    height: 80%;
+    padding: 25px;
+    /* background-color: rgba(219, 210, 24, 0.334); */
+    /* background-color: rgba(227, 217, 16, 0.516); */
+    background-color: rgba(227, 192, 16, 0.773);
+    color: black;
+}
+
+.logout-btn {
+    position: absolute;
+    left: 0;
+}
+
+.det-tab p{
+    text-align: justify;
+    font-size: 15.5px;
+    font-weight: bold;
+    color: black;
+    gap: 1px;
+}
+

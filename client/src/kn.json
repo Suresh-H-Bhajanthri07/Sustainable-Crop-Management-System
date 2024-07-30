@@ -1,0 +1,199 @@
+{
+    "header": {
+      "home": "ಮುಖಪುಟ ",
+      "services": "ಸೇವೆಗಳು ",
+      "login": "ಲಾಗಿನ್ ",
+      "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+      "contact": "ಸಂಪರ್ಕ"
+    },
+    "services": {
+      "title": "ಸುಸ್ಥಿರ ಬೆಳೆ ನಿರ್ವಹಣೆ ",
+      "description": "ಕೃಷಿಕರ ಕೈಗೆ ತಂತ್ರಜ್ಞಾನ ",
+      "Sustainability bridge": "ಸುಸ್ಥಿರತೆ ಸೇತು",
+      "Sell the Agro Waste": "ಕೃಷಿ ಅಪಾರ ಹಸಿರುಬುಟ್ಟಿಗಳನ್ನು ಮಾರಿಮಾಡಿ",
+      "Obtain agro-Waste in Bulk": "ಅಗ್ರಿ-ವೇಷ್ಟ್ ಅನ್ನು ಬಳಸಿ ಮೊದಲುಪಟ್ಟಿಗೆ ಪಡೆಯಿರಿ",
+      "Buy Agro-Waste in Bulk": "ಬಹುಮಾನದಲ್ಲಿ ಕೃಷಿ ಅಪಾರ ಹಸಿರುಬುಟ್ಟಿಗಳನ್ನು ಖರೀದಿಸಿ",
+      "Get agro-counselling": "ಕೃಷಿಯ ಮಾರ್ಗದರ್ಶನ ಪಡೆಯಿರಿ",
+      "Get agro-counselling1": "ಪಂದಿತರಿಂದ ಬುದ್ಧಿವಾದವನ್ನು ಪಡೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ಹರಡುವ ತೆರನಾದ ಹರಟೆಯನ್ನು ಪ್ರಿಯುತ್ತಿರಿ",
+      "Sell the Agro-Waste at price you want": "ನೀವು ಬಯಸುವ ಬೆಲೆಯಲ್ಲಿ ಅಗ್ರೋ-ವೇಷ್ಟ್ ಅನ್ನು ಮಾರಿ"
+
+    },
+    "company": {
+      "slogan": "ನಿಮ್ಮ ಸೇವೆಯಲ್ಲಿ"
+    },
+    "legal": {
+      "privacyPolicy": "ಗೌಪ್ಯತಾ ನೀತಿ ",
+      "termsAndConditions": "ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು ",
+      "copyright": "ಕಾಪಿರೈಟ್",
+      "sssr": "SSSR"
+    },
+    "auth": {
+      "loginRegistration": "ಲಾಗಿನ್ / ನೋಂದಣಿ ",
+      "register": "ನೋಂದಣಿ ",
+      "login": "ಲಾಗಿನ್",
+      "logout": "ಲಾಗ್ ಔಟ್"
+    },
+    "contact": {
+      "message": "ನಾವು ನಿಮ್ಮಿಂದ ಕೇಳಲು ಇಷ್ಟಪಡುತ್ತೇವೆ... ",
+      "sendMessage": "ಸಂದೇಶ ಕಳುಹಿಸಿ "
+    },
+    "about": {
+      "title": "ನಮ್ಮ ಬಗ್ಗೆ ",
+      "growthJourney": {
+        "heading": "ನಮ್ಮ ಬೆಳವಣಿಗೆಯ ಪ್ರಯಾಣ ",
+        "timeline": {
+          "april2024": "ಏಪ್ರಿಲ್ 2024 ",
+          "aStartupIsBorn": "ಒಂದು ಉದ್ಯಮ ಜನಿಸಿದೆ ",
+          "ourhumblebeginning":"ನಮ್ಮ ವಿನಯಪೂರ್ವಕ ಪ್ರಾರಂಭಗಳು",
+          "asmallidea":"ಜೀವನಗಳನ್ನು ಪರಿವರ್ತಿಸುವ ಒಂದು ಸಣ್ಣ ಕನಿಷ್ಠೆ",
+          "startupDescription": "20 ಮಂದಿ ನಿಷ್ಠಾವಂತ ಯುವ ಪಡೆಯೊಂದಿಗೆ ನಮ್ಮ ಉದ್ಯಮ",
+          "april2025": "ಏಪ್ರಿಲ್ 2025 ",
+          "transitionToFullService": "पूर्ण ಸೇವೆಗೆ ಪರಿವರ್ತನೆ ",
+          "serviceBegins": "ನಮ್ಮ ನಿರಂತರ ಸೇವೆ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ ",
+          "july2026": "ಜುಲೈ 2026 ",
+          "phaseTwoExpansion": "ಎರಡನೇ ಹಂತದ ವಿಸ್ತರಣೆ ",
+          "expansionDescription": "ಹೊಸ ಕೃಷಿ ಸೇವೆಗಳ ವಿಷಯದಲ್ಲಿ ನಮ್ಮ ವಿಸ್ತರಣೆ ",
+          "bepart": "ನಮ್ಮ ಕಥೆಯ ಭಾಗವಾಗಿರಿ!"
+        }
+      }
+    },
+    "contactus": {
+      "contactus": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+      "wewould": "ನಿಮ್ಮಿಂದ ಕೇಳಲು ಇಷ್ಟಪಡುತ್ತೇವೆ...",
+      "yourname": "ನಿಮ್ಮ ಹೆಸರು*",
+      "youremail": "ನಿಮ್ಮ ಇಮೇಲ್*",
+      "phnumber": "ನಿಮ್ಮ ಫೋನ್ ನಂಬರ್*",
+      "yourmessage": "ನಿಮ್ಮ ಸಂದೇಶ*",
+      "sendmessage": "ಸಂದೇಶ ಕಳುಹಿಸಿ"
+    },
+    "crops" : {
+      "wasteType": "ಒಳಗಿನ ಬಹುಮಾನಿ ಹಾಕಲಾಗುವ ಬಸ್ತು",
+      "quantityOfWaste": "ಬಸ್ತು ಪ್ರಮಾಣ",
+      "sellTheWaste": "ಬಸ್ತುವನ್ನು ಮಾರಿಬಿಡಿ",
+      "totalRevenueGenerated": "ಒಟ್ಟು ಆದಾಯ ಉತ್ಪನ್ನಗೊಂಡಿದೆ"
+    },
+    "wasteTypes": {
+      "wheatHusk": "ಗೋಧಿ ಹಸುವು",
+      "riceHusk": "ಅಕ್ಕಿ ಹಸುವು",
+      "cornBot": "ಮಕ್ಕಳು ಬೊಟ್",
+      "tobaccoCropWaste": "ತಂಬಾಕು ಬೆಳೆ ಒಳಗಿನ ಉಳಿಗಳು",
+      "castorCropWaste": "ಹರಳಿನ ಬೆಳೆ ಉಳಿಗಳು",
+      "cottonPlantsLeftOut": "ಹಣಕಾಯಿ ಸಸ್ಯಗಳ ಉಳಿಗಳು"
+    },
+    "validation": {
+      "Login Form": "ಲಾಗಿನ್ ಫಾರ್ಮ್",
+      "Enter proper name": "ಸರಿಯಾದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+      "Enter proper mail address": "ಸರಿಯಾದ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ",
+      "Please enter the valid aadhar number": "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಆಧಾರ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ",
+      "Please select your date of birth": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಹುಟ್ಟಿದ ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+      "Please select a state": "ದಯವಿಟ್ಟು ಒಂದು ರಾಜ್ಯ ಆಯ್ಕೆ ಮಾಡಿ",
+      "Both passwords should match": "ಎರಡೂ ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಹೊಂದಾಣಿಕೆಯಾಗಿರಬೇಕು",
+      "registered successfully": "ಯಶಸ್ವಿಯಾಗಿ ನೆರವೇರಿಸಲಾಗಿದೆ",
+      "Some error occurred. Please try again after some time": "ಕೆಲವು ದೋಷಗಳು ಉಂಟಾಗಿವೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ",
+      "Registration Form": "ನೆರವೇರಿಸುವ ಫಾರ್ಮ್",
+      "Your name..": "ನಿಮ್ಮ ಹೆಸರು..",
+      "Your email..": "ನಿಮ್ಮ ಇಮೇಲ್..",
+      "Your Mobile number..": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ..",
+      "Your Aadhar number (xxx xxxx xxxx)": "ನಿಮ್ಮ ಆಧಾರ್ ಸಂಖ್ಯೆ (xxx xxxx xxxx)",
+      "select dob": "ಹುಟ್ಟಿದ ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+      "Your Village..": "ನಿಮ್ಮ ಗ್ರಾಮ..",
+      "Your password..": "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್‌..",
+      "Confirm password..": "ಪಾಸ್‌ವರ್ಡ್‌ ದೃಢೀಕರಿಸಿ..",
+      "Register": "ನೆರವೇರಿಸಿ",
+      "Already have a account?": "ನಿಮಗೆ ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?",
+      "login": "ಲಾಗಿನ್",
+      "Or Click here to": "ಅಥವಾ ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ",
+      "select state...": "ರಾಜ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ...",
+      "select district...": "ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ..."
+    },
+    "Selection": {
+    "sellthewaste": "ಕಸ ಮಾರಾಟ",
+    "Getcropinfo": "ಬೆಳೆ ಮಾಹಿತಿ ಪಡೆಯಿರಿ",
+    "Soil type": "ಮಣ್ಣು ಪ್ರಕಾರ",
+    "Climate": "ಹವಾಮಾನ",
+    "Nutrients": "ಪೋಷಕಾಂಶಗಳು",
+    "Crop minimum distance": "ಬೆಳೆ ಕನಿಷ್ಠ ಅಂತರ",
+    "filter by soil": "ಮಣ್ಣಿನ ಪ್ರಕಾರ ಫಿಲ್ಟರ್ ಮಾಡಿ",
+    "filter by soil temperature": "ಮಣ್ಣಿನ ತಾಪಮಾನ ಪ್ರಕಾರ ಫಿಲ್ಟರ್ ಮಾಡಿ",
+    "Select The Type Of Soil Of Your Land": "ನಿಮ್ಮ ಭೂಮಿಯ ಮಣ್ಣಿನ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ",
+    "Enter the Minimum Temperature": "ಕನಿಷ್ಠ ತಾಪಮಾನ ನಮೂದಿಸಿ",
+    "Enter the Maximum Temperature": "ಗರಿಷ್ಠ ತಾಪಮಾನ ನಮೂದಿಸಿ",
+    "Select Climate": "ಹವಾಮಾನ ಆಯ್ಕೆಮಾಡಿ",
+    "Apply": "ಅನ್ವಯಿಸಿ",
+    "Apply Temperature": "ತಾಪಮಾನ ಅನ್ವಯಿಸಿ",
+    "Apply Climate": "ಹವಾಮಾನ ಅನ್ವಯಿಸಿ",
+    "close": "ಮುಚ್ಚಿ",
+    "Enter previous crop grown": "ಹಿಂದಿನ ಬೆಳೆ ನಮೂದಿಸಿ",
+    "Get Suitable Crop": "ಅನುಕೂಲಕರ ಬೆಳೆಯನ್ನು ಪಡೆಯಿರಿ",
+    "Crop Info": "ಬೆಳೆ ಮಾಹಿತಿ",
+    "Crop Details": "ಬೆಳೆ ವಿವರಗಳು"
+  },
+  "cropname": {
+    "Corn": "ಮಕ್ಕಿ",
+    "Soybean": "ಸೊಯಾಬಿನ್",
+    "Barley": "ಜೋಳ",
+    "Tomato": "ಟೊಮ್ಯಾಟೊ",
+    "Potato": "ಆಲೂಗಡ್ಡೆ",
+    "Cabbage": "ಎಲೆಕೋಸು",
+    "Lettuce": "ಅಧಿಕಂಪಲಿ",
+    "Rice": "ಅಕ್ಕಿ",
+    "Wheat": "ಗೋಧಿ",
+    "Peanut": "ಶೇಂಗಾ",
+    "Sugarcane": "ಕಬ್ಬು",
+    "Cotton": "ಹತ್ತಿ",
+    "Sunflower": "ಸೂರ್ಯಕಾಂತಿ",
+    "Chili Pepper": "ಮೆಣಸಿನಕಾಯಿ",
+    "Garlic": "ಬೆಳ್ಳುಳ್ಳಿ",
+    "Onion": "ಈರುಳ್ಳಿ",
+    "Spinach": "ಪಾಲಕ್ ಸೊಪ್ಪು",
+    "Broccoli": "ಹೂಕೋಸು"
+  },
+  "soilname": {
+    "Sandy loam": "ಮರಳು ಮಣ್ಣು",
+    "Clay loam": "ಮಣ್ಣು ಮಣ್ಣು",
+    "Clay soil": "ಮಣ್ಣು ಮಣ್ಣು",
+    "Loamy soil": "ಏಕರೂಪ ಮಣ್ಣು",
+    "Sandy soil": "ಮರಳು ಮಣ್ಣು",
+    "Silt soil": "ಮಣ್ಣು ಮಣ್ಣು",
+    "Silty loam": "ಮಣ್ಣು ಮಣ್ಣು",
+    "Silty soil": "ಮಣ್ಣು ಮಣ್ಣು",
+    "Peaty soil": "ಪಿಟ್ ಮಣ್ಣು"
+  },
+  "climatenames": {
+    "Select Climate": "ಹವಾಮಾನ ಆಯ್ಕೆಮಾಡಿ",
+    "Temperate": "ಮಿತ",
+    "Warm temperate": "ಬೆಚ್ಚಗಿನ ಮಿತ",
+    "Cool temperate": "ತಂಪಾದ ಮಿತ",
+    "Tropical": "ಆಕರ್ಷಕ",
+    "Arid": "ಉಣಟ"
+  },
+  "nutrientsname": {
+    "Nitrogen": "ನೈಟ್ರಜನ್",
+    "Phosphorus": "ಫಾಸ್ಪೋರಸ್",
+    "Potassium": "ಪೊಟಾಶಿಯಂ",
+    "Magnesium": "ಮ್ಯಾಗ್ನೀಷಿಯಂ"
+  },
+  "cropinfo": {
+    "Name": "ಹೆಸರು",
+    "Climate": "ಹವಾಮಾನ",
+    "Soil": "ಮಣ್ಣು",
+    "Temperature": "ತಾಪಮಾನ",
+    "Expected Revenue": "ಅನಂಕಿತ ಆದಾಯ",
+    "Distance Between Crops": "ಬೆಳೆಗಳ ನಡುವೆ ಅಂತರ",
+    "Description": "ವಿವರಣೆ",
+    "Planting Techniques": "ನೆಡುವ ತಂತ್ರಗಳು",
+    "degrees": "ಅಂಗಲು",
+    "Calculate Estimated Revenue": "ಅಂದಾಜು ಆದಾಯವನ್ನು ಲೆಕ್ಕ ಹಾಕಿ",
+    "Length (in meters)": "ಉದ್ದ (ಮೀಟರ್‌ಗಳಲ್ಲಿ)",
+    "Breadth (in meters)": "ಅಗಲ (ಮೀಟರ್‌ಗಳಲ್ಲಿ)",
+    "Estimated Revenue": "ಅಂದಾಜು ಆದಾಯ",
+    "Loading...": "ಲೋಡಿಂಗ್...",
+    "Calculate": "ಲೆಕ್ಕ ಹಾಕಿ",
+    "Learn proper planting techniques for your chosen crops, including seed depth, spacing, and timing": "ನಿಮ್ಮ ಆಯ್ಕೆ ಮಾಡಿದ ಬೆಳೆಗಳಿಗೆ ಸೂಕ್ತವಾದ ನೆಡುವ ತಂತ್ರಗಳನ್ನು ತಿಳಿಯಿರಿ, ಬೀಜದ ಆಳ, ಅಂತರ, ಮತ್ತು ಸಮಯವನ್ನು ಸೇರಿಸಿ",
+    "Plant Care": "ಬೆಳೆ ಪಾಲನೆ",
+    "Understand the specific needs of your crops throughout their growth cycle, including watering, fertilizing, pest control, and weed management": "ನಿಮ್ಮ ಬೆಳೆಗಳ ಬೆಳವಣಿಗೆ ಚಕ್ರದಾದ್ಯಂತ ಅವರ ವಿಶೇಷ ಅಗತ್ಯಗಳನ್ನು ಅರಿಯಿರಿ, ನೀರಾವರಿ, ರಸಗೊಬ್ಬರ, ಹಾವಳಿ ನಿಯಂತ್ರಣ, ಮತ್ತು ಗಿಡಮಾಲಿನ್ಯ ನಿರ್ವಹಣೆ ಸೇರಿಸಿ",
+    "Soil Health": "ಮಣ್ಣು ಆರೋಗ್ಯ",
+    "Learn about soil health practices like cover cropping, composting, and no-till farming to improve your soils fertility and water retention": "ಮಣ್ಣು ಆರೋಗ್ಯ ಅಭ್ಯಾಸಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ ಉದಾಹರಣೆಗೆ: ಕವರ್ ಕ್ರಾಪಿಂಗ್, ಕಾಂಪೋಸ್ಟಿಂಗ್, ಮತ್ತು ನೋ-ಟಿಲ್ ಕೃಷಿ, ನಿಮ್ಮ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಮತ್ತು ನೀರಿನ ಸಂರಕ್ಷಣೆ ಸುಧಾರಿಸಲು"
+  }
+  }
+  

@@ -1,0 +1,199 @@
+{
+  "header": {
+    "home": "HOME",
+    "services": "SERVICES",
+    "login": "LOGIN",
+    "about": "ABOUT",
+    "contact": "CONTACT",
+    "language": "LANGUAGE"
+  },
+  "services": {
+    "title": "Sustainable Crop Management",
+    "description": "Technology At Farmer's Fingertip",
+    "Sustainability bridge": "Sustainability bridge",
+    "Sell the Agro Waste": "Sell the Agro Waste",
+    "Buy Agro-Waste in Bulk": "Buy Agro-Waste in Bulk",
+    "Obtain agro-Waste in Bulk": "Obtain agro-Waste in Bulk",
+    "Get agro-counselling": "Get agro-counselling",
+    "Get agro-counselling1": "Get words of wisdom for smart-farming from our team of experts and trigger your harvest",
+    "Sell the Agro-Waste at price you want": "Sell the Agro-Waste at price you want"
+
+  },
+  "company": {
+    "slogan": "At Your Service"
+  },
+  "legal": {
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms and Conditions",
+    "copyright" : "Copyright",
+    "sssr" : "SSSR"
+  },
+  "auth": {
+    "loginRegistration": "LOGIN/REGISTRATION",
+    "register": "Register",
+    "login": "Login",
+    "logout": "Log Out"
+  },
+  "contact": {
+    "message": "We would like to hear from you...",
+    "sendMessage": "SEND MESSAGE"
+  },
+  "about": {
+    "title": "ABOUT",
+    "growthJourney": {
+      "heading": "Our Growth Journey",
+      "timeline": {
+        "april2024": "April 2024",
+        "ourhumblebeginning":"Our Humble Beginnings",
+        "asmallidea":"A small idea to transform lives",
+        "aStartupIsBorn": "A Startup is Born",
+        "startupDescription": "Our startup with 20 dedicated young spirits",
+        "april2025": "April 2025",
+        "transitionToFullService": "Transition to Full Service",
+        "serviceBegins": "Our ever-ending service begins",
+        "july2026": "July 2026",
+        "phaseTwoExpansion": "Phase Two Expansion",
+        "expansionDescription": "Our expansion in terms of new agro-services",
+        "bepart": "Be Part Of Our Story!"
+      }
+    }
+  },
+  "contactus" : {
+    "contactus" : "CONTACT US",
+    "wewould" : "We would like to hear from you...",
+    "yourname" : "Your Name*",
+    "youremail" : "Your Email*",
+    "phnumber" : "Your Phone Number*",
+    "yourmessage" : "Your Message*",
+    "sendmessage" : "SEND MESSAGE"
+  },
+  "crops" : {
+    "wasteType": "WASTE - TYPE",
+    "quantityOfWaste": "QUANTITY OF WASTE",
+    "sellTheWaste": "SELL THE WASTE",
+    "totalRevenueGenerated": "Total Revenue Generated"
+  },
+  "wasteTypes": {
+    "wheatHusk": "Wheat Husk",
+    "riceHusk": "Rice Husk",
+    "cornBot": "Corn Bot",
+    "tobaccoCropWaste": "Tobacco Crop Waste",
+    "castorCropWaste": "Castor Crop Waste",
+    "cottonPlantsLeftOut": "Cotton Plants Left Out"
+  },
+  "validation": {
+    "Login Form": "Login Form",
+    "Enter proper name": "Enter proper name",
+    "Enter proper mail address": "Enter proper mail address",
+    "Please enter the valid aadhar number": "Please enter the valid aadhar number",
+    "Please select your date of birth": "Please select your date of birth",
+    "Please select a state": "Please select a state",
+    "Both passwords should match": "Both passwords should match",
+    "registered successfully": "registered successfully",
+    "Some error occurred. Please try again after some time": "Some error occurred. Please try again after some time",
+    "Registration Form": "Registration Form",
+    "Your name..": "Your name..",
+    "Your email..": "Your email..",
+    "Your Mobile number..": "Your Mobile number..",
+    "Your Aadhar number (xxx xxxx xxxx)": "Your Aadhar number (xxx xxxx xxxx)",
+    "select dob": "select dob",
+    "Your Village..": "Your Village..",
+    "Your password..": "Your password..",
+    "Confirm password..": "Confirm password..",
+    "Register": "Register",
+    "Already have a account?": "Already have a account?",
+    "login": "login",
+    "Or Click here to": "Or Click here to ",
+    "select state...": "select state...",
+    "select district...": "select district..."
+  },
+  "Selection":{
+    "sellthewaste": "Sell the waste",
+    "Getcropinfo": "Get the crop info",
+    "Soil type": "Soil type",
+    "Climate": "Climate",
+    "Nutrients": "Nutrients",
+    "Crop minimum distance": "Crop minimum distance",
+    "filter by soil": "filter by soil",
+    "filter by soil temperature": "filter by soil temperature",
+    "Select The Type Of Soil Of Your Land": "Select The Type Of Soil Of Your Land",
+    "Enter the Minimum Temperature": "Enter the Minimum Temperature",
+    "Enter the Maximum Temperature": "Enter the Maximum Temperature",
+    "Select Climate": "Select Climate",
+    "Apply": "Apply",
+    "Apply Temperature": "Apply temperature",
+    "Apply Climate": "Apply Climate",
+    "close": "close",
+    "Enter previous crop grown": "Enter previous crop grown",
+    "Get Suitable Crop": "Get Suitable Crop",
+    "Crop Info": "CROP INFO",
+    "Crop Details": "CROP DETAILS"
+  },
+  "cropname":{
+    "Corn": "Corn",
+    "Soybean": "Soybean",
+    "Barley": "Barley",
+    "Tomato": "Tomato",
+    "Potato": "Potato",
+    "Cabbage": "Cabbage",
+    "Lettuce": "Lettuce",
+    "Rice": "Rice",
+    "Wheat": "Wheat",
+    "Peanut": "Peanut",
+    "Sugarcane": "Sugarcane",
+    "Cotton": "Cotton",
+    "Sunflower": "Sunflower",
+    "Chili Pepper": "Chilipepper",
+    "Garlic": "Garlic",
+    "Onion": "Onion",
+    "Spinach": "Spinach",
+    "Broccoli": "Broccoli"
+  },
+  "soilname":{
+    "Sandy loam": "Sandy loam",
+    "Clay loam": "Clay loam",
+    "Clay soil": "Clay Soil",
+    "Loamy soil": "Loamy soil",
+    "Sandy soil": "Sandy soil",
+    "Silty loam": "Silty soil",
+    "Silty soil": "Silty soil",
+    "Silt soil": "Silt soil",
+    "Peaty soil": "Peaty soil"
+  },
+  "climatenames":{
+    "Select Climate": "Select Climate",
+    "Temperate": "Temperate",
+    "Warm temperate": "Warm temperate",
+    "Cool temperate": "Cool Temperate",
+    "Tropical": "Tropical",
+    "Arid":"Arid"
+  },
+  "nutrientsname": {
+    "Nitrogen": "Nitrogen",
+    "Phosphorus": "Phosphorus",
+    "Potassium": "Potassium",
+    "Magnesium": "Magnesium"
+  },
+  "cropinfo": {
+    "Name": "Name",
+    "Climate": "Climate",
+    "Soil": "Soil",
+    "Temperature": "Temperature",
+    "Expected Revenue": "Expected Revenue",
+    "Distance Between Crops": "Distance Between Crops",
+    "Description": "Description",
+    "Planting Techniques": "Planting Techniques",
+    "degrees": "degrees",
+    "Calculate Estimated Revenue": "Calculate Estimated Revenue",
+    "Length (in meters)": "Length (in meters)",
+    "Breadth (in meters)": "Breadth (in meters)",
+    "Estimated Revenue": "Estimated Revenue",
+    "Loading...": "Loading...",
+    "Calculate": "Calculate",
+    "Learn proper planting techniques for your chosen crops, including seed depth, spacing, and timing": "Learn proper planting techniques for your chosen crops, including seed depth, spacing, and timing",
+    "Plant Care": "Plant Care",
+    "Understand the specific needs of your crops throughout their growth cycle, including watering, fertilizing, pest control, and weed management": "Understand the specific needs of your crops throughout their growth cycle, including watering, fertilizing, pest control, and weed management",
+    "Soil Health": "Soil Health",
+    "Learn about soil health practices like cover cropping, composting, and no-till farming to improve your soils fertility and water retention": "Learn about soil health practices like cover cropping, composting, and no-till farming to improve your soil's fertility and water retention"
+  }
+}

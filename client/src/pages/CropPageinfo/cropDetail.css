@@ -1,0 +1,267 @@
+.cropdetail-page{
+    background-image: url('../../assets/aa2.jpg');
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	content: "";
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: -1;
+	display: block;
+    filter: contrast(110%);
+    filter: blur(0.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headerinfo{
+    height: 10%;
+    width: 100%;
+    align-items: center;
+    border-bottom: 1px solid black;
+    background-color: rgba(232, 31, 31, 0.716);
+    /* background-color: rgba(232, 31, 31, 0.196); */
+    position: relative;
+}
+
+
+.headerinfo h1{
+    text-align: center;  
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+.cropname-input-container {
+    position: absolute; 
+    top: 50%; 
+    right: 10px; 
+    transform: translateY(-50%);
+}
+
+.cropname-label {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.85rem;
+    /* color: black;  */
+    color: white; 
+}
+
+.cropname-label input {
+    margin-right: 5px; 
+    padding: 5px;
+    width: 6rem; 
+    font-size: 0.8rem;
+}
+
+.logout-btn {
+    position: absolute;
+}
+
+#cropbtn {
+    margin-right: 5px; 
+}
+
+.displaycrop{
+    height: 81%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: auto; /* Add this line to enable scrolling */
+    max-height: 800px; /* Set a max-height to limit the height of the div and enable scrolling */
+}
+
+.cropinfo h1{
+    text-align: center;
+}
+
+.cropinfoexp{
+    height: 8rem;
+    width: 100%;
+    text-align: left;
+    padding: 1rem;
+    display: flex;
+    border-bottom: 1px solid black;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgba(246, 197, 136, 0.578);
+    cursor: pointer;
+}
+
+.cropinfoexp:hover {
+    background-color: rgba(232, 169, 91, 0.744);
+
+}
+
+.cropinfoexp p{
+    text-align: center;
+    /* text-align: left; */
+}
+
+.crop-image-container{
+    width: 12rem; 
+    height: 6rem; 
+    object-fit: cover; 
+    object-position: center;
+    border: 1.5px solid black;
+}
+
+.crop-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    object-position: center;
+}
+
+.img1{
+    background-image: url('../../assets/wheat11.jpg');
+    height: 95%;
+    align-items: center;
+    width: 20%;
+    border: 1.5px solid black;
+}
+.img2{
+    background-image: url('../../assets/Maize.jpg');
+    height: 95%;
+    align-items: center;
+    width: 20%;
+    border: 1.5px solid black;
+}
+.img3{
+    background-image: url('../../assets/wheat11.jpg');
+    height: 95%;
+    align-items: center;
+    width: 20%;
+    border: 1.5px solid rgb(0, 0, 0);
+}
+.cropinfoexp h1{
+    margin: 1.5rem;
+}
+.cropinfoexp p {
+    margin: 2rem;
+}
+
+.filtertab{
+    height: 9%;
+    width: 100%;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.819);
+    color: rgb(0, 0, 0);
+}
+.soiltype{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(184, 184, 173, 0.495);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+}
+
+.soiltemperature{
+    width: 50%;
+    height: 100%;
+    background-color: rgba(184, 184, 173, 0.495);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    top: 0;
+    font-size: 0.9rem;
+}
+
+.soiltype:hover {
+    background-color: rgba(48, 46, 46, 0.971);
+    color: rgba(255, 255, 255, 0.819);
+    cursor: pointer;
+}
+.soiltemperature:hover {
+    background-color: rgba(48, 46, 46, 0.971);
+    color: rgba(255, 255, 255, 0.819);
+    cursor: pointer;
+
+}
+
+.arr{
+    width: 10rem;
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: black;
+}
+
+.modal-overlay{
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	content: "";
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: -1;
+	/* display: block; */
+    filter: contrast(110%);
+    filter: blur(0.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(128, 128, 128, 0.467);
+}
+
+.modal-content{
+    width: 900px;
+    height: 600px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.modal-content input{
+    margin-left: 1rem;
+}
+
+.modal-content select{
+    margin-left: 1rem;
+}
+
+.modal-btn{
+    width: 100%;
+    padding: 2px;
+    font-size: small;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+}
+
+.options input{
+    margin-left: 20px;
+}
+
+#btn{
+    align-items: center;
+    justify-content: center;
+    width: 10rem;
+    height: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.close-button{
+    margin-left: 52rem;
+    margin-bottom: 35rem;
+    position: fixed;
+}
